@@ -1,0 +1,8 @@
+com\beisi\model\LoginRequest.class
+com\beisi\model\LoginResponse$Data.class
+com\beisi\LoginApplication$1.class
+com\beisi\controller\LoginController.class
+com\beisi\LoginApplication.class
+com\beisi\CorsConfig.class
+com\beisi\model\LoginResponse.class
+com\beisi\CorsFilter.class
